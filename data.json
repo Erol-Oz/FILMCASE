@@ -1,0 +1,1156 @@
+[
+    {
+        "id": 1,
+        "isim": "Şeytanın Oteli",
+        "tür": "Korku",
+        "konu": "Soğuktan donmamak için tek şansları, bu otele girip geceyi burada geçirmektir.",
+        "IMDb": 6.2,
+        "image": "https://tr.web.img4.acsta.net/medias/nmedia/18/84/97/66/19766876.jpg",
+        "trailer": "https://www.youtube.com/embed/g4iSLU-DgZs"
+    },
+    {
+        "id": 3,
+        "isim": "Korku Seansı",
+        "tür": "Korku, Gizem, Gerilim",
+        "konu": "Bir aile, evlerinde yaşadıkları doğaüstü olayların etkisi altına girer.",
+        "IMDb": 7.5,
+        "image": "https://tr.web.img4.acsta.net/pictures/210/263/21026346_20130812140044703.jpg",
+        "trailer": "https://www.youtube.com/embed/5u5A471adxg"
+    },
+    {
+        "id": 4,
+        "isim": "Korkunun Gölgesi",
+        "tür": "Korku, Gerilim",
+        "konu": "İzole bir kasabada yaşayan insanların, korkunun etkisi altında kalışları.",
+        "IMDb": 7.1,
+        "image": "https://tr.web.img4.acsta.net/pictures/16/08/10/09/59/032243.jpg",
+        "trailer": "https://www.youtube.com/embed/G_ATX4C8Pmw"
+    },
+    {
+        "id": 5,
+        "isim": "Kıyamet Günü",
+        "tür": "Korku, Gerilim, Bilim Kurgu",
+        "konu": "Dünyayı etkisi altına alan bir virüsün neden olduğu kaos ve kargaşa.",
+        "IMDb": 7.3,
+        "image": "https://upload.wikimedia.org/wikipedia/tr/1/17/K%C4%B1yamet_G%C3%BCn%C3%BC-afi%C5%9F.jpg",
+        "trailer": "https://www.youtube.com/embed/J1Mi193LSmY"
+    },
+    {
+        "id": 6,
+        "isim": "Sessiz Bir Yer",
+        "tür": "Dram, Korku, Gerilim",
+        "konu": "Sessiz bir dünyada, ailesiyle birlikte hayatta kalmaya çalışan bir baba ve kızının hikayesi.",
+        "IMDb": 7.5,
+        "image": "https://tr.web.img3.acsta.net/pictures/18/03/21/15/11/4646862.jpg",
+        "trailer": "https://www.youtube.com/embed/7QFMIPRs2Lc"
+    },
+    {
+        "id": 7,
+        "isim": "Modern Times",
+        "tür": "Komedi, Drama",
+        "konu": "Fabrika işçisi bir adamın mizah dolu hikayesi.",
+        "IMDb": 8.4,
+        "image": "https://upload.wikimedia.org/wikipedia/tr/6/6e/Moderntimes.jpg",
+        "trailer": "https://www.youtube.com/embed/GLeDdzGUTq0"
+    },
+    {
+        "id": 8,
+        "isim": "The Grand Budapest Hotel",
+        "tür": "Komedi, Macera, Suç",
+        "konu": "Bir otelde yaşanan hırsızlık olayının hikayesi.",
+        "IMDb": 8.1,
+        "image": "https://m.media-amazon.com/images/M/MV5BMzM5NjUxOTEyMl5BMl5BanBnXkFtZTgwNjEyMDM0MDE@._V1_FMjpg_UX1000_.jpg",
+        "trailer": "https://www.youtube.com/embed/w0e_zqphqH0"
+    },
+    {
+        "id": 9,
+        "isim": "The Kid",
+        "tür": "Komedi, Drama, Aile",
+        "konu": "Sokakta yaşayan bir çocuğun, bir serseriyle olan arkadaşlığı.",
+        "IMDb": 8.3,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/59/CC_The_Kid_1921.jpg",
+        "trailer": "https://www.youtube.com/embed/qpMyCaQGlqU"
+    },
+    {
+        "id": 11,
+        "isim": "City Lights",
+        "tür": "Komedi, Drama, Romantik",
+        "konu": "Bir kör kızın, çiçek satıcısı bir adamla olan ilişkisi.",
+        "IMDb": 8.5,
+        "image": "https://m.media-amazon.com/images/M/MV5BY2I4MmM1N2EtM2YzOS00OWUzLTkzYzctNDc5NDg2N2IyODJmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+        "trailer": "https://www.youtube.com/embed/7vl7F8S4cpQ"
+    },
+    {
+        "id": 12,
+        "isim": "Kara Büyü",
+        "tür": "Korku",
+        "konu": "Bir satanist cemaatin, masum bir aileyi hedef alışının hikayesi.",
+        "IMDb": 7.6,
+        "image": "https://tr.web.img4.acsta.net/pictures/bzp/03/133358.jpg",
+        "trailer": "https://www.youtube.com/embed/hR1FuPC3rbU"
+    },
+    {
+        "id": 13,
+        "isim": "Get Out",
+        "tür": "Korku, Gizem",
+        "konu": "Bir beyaz kızın siyah sevgilisini tanıştırdığı ailesinde tuhaf olaylar yaşanır.",
+        "IMDb": 7.7,
+        "image": "https://tr.web.img4.acsta.net/pictures/17/04/12/14/53/049448.jpg",
+        "trailer": "https://www.youtube.com/embed/Ivl9YVTgsag"
+    },
+    {
+        "id": 14,
+        "isim": "The Shining",
+        "tür": "Korku, Dram",
+        "konu": "Bir otelde kış bakıcısı olan bir adamın, deliliğe sürüklenişinin hikayesi.",
+        "IMDb": 8.4,
+        "image": "https://sinemasayfam.com/wp-content/uploads/2020/05/the-shining-cinnet-1.jpg",
+        "trailer": "https://www.youtube.com/embed/BLs7P1xTUmw"
+    },
+    {
+        "id": 15,
+        "isim": "Psycho",
+        "tür": "Korku, Gizem, Gerilim",
+        "konu": "Motel sahibi Norman Bates'in, oteline gelen bir kadınla yaşadıkları.",
+        "IMDb": 8.5,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Psycho_%281960%29_theatrical_poster_%28retouched%29.jpg/220px-Psycho_%281960%29_theatrical_poster_%28retouched%29.jpg",
+        "trailer": "https://www.youtube.com/embed/NG3-GlvKPcg"
+    },
+    {
+        "id": 16,
+        "isim": "The Silence of the Lambs",
+        "tür": "Korku, Gerilim, Suç",
+        "konu": "Bir kadın FBI ajanının, psikopat bir seri katilin yakalanmasındaki rolü.",
+        "IMDb": 8.6,
+        "image": "https://m.media-amazon.com/images/M/MV5BNjNhZTk0ZmEtNjJhMi00YzFlLWE1MmEtYzM1M2ZmMGMwMTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+        "trailer": "https://www.youtube.com/embed/SGR05ypBMmo"
+    },
+    {
+        "id": 17,
+        "isim": "Kara Şövalye",
+        "tür": "Aksiyon, Suç, Dram",
+        "konu": "Joker adıyla tanınan bir düşman Gotham halkına kaos ve yıkım yaydığında, Batman adaleti savunma yeteneğinin en büyük psikolojik ve fiziksel testlerinden birini kabul etmek zorunda kalır.",
+        "IMDb": 9.0,
+        "image": "https://tr.web.img4.acsta.net/pictures/bzp/03/115362.jpg",
+        "trailer": "https://www.youtube.com/embed/xl2NZ0Bt7yQ"
+    },
+    {
+        "id": 18,
+        "isim": "Matrix",
+        "tür": "Aksiyon, Bilim Kurgu",
+        "konu": "Bilgisayar korsanı, gizemli isyancılardan kendi gerçekliğinin gerçek doğasını ve kontrolcülerine karşı savaşındaki rolünü öğrenir.",
+        "IMDb": 8.7,
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/36/Matrix-film.jpg",
+        "trailer": "https://www.youtube.com/embed/m8e-FF8MsqU"
+    },
+    {
+        "id": 19,
+        "isim": "Yüzüklerin Efendisi: Kralın Dönüşü",
+        "tür": "Aksiyon, Macera, Dram",
+        "konu": "Gandalf ve Aragorn, Sauron'un ordusuyla Dünya'nın insanlarını yönetmek için Frodo ve Sam Dağ'daki Tek Yüzük'e yaklaşırken dikkatini çekmek için önderlik ederler.",
+        "IMDb": 8.9,
+        "image": "https://tr.web.img4.acsta.net/pictures/bzp/01/39187.jpg",
+        "trailer": "https://www.youtube.com/embed/r5X-hFf6Bwo"
+    },
+    {
+        "id": 20,
+        "isim": "Başlangıç",
+        "tür": "Aksiyon, Macera, Bilim Kurgu",
+        "konu": "Şirket sırlarını hayal paylaşım teknolojisi kullanarak çalan bir hırsız, bir CEO'nun zihnine bir fikir yerleştirme ters görevi verilir.",
+        "IMDb": 8.8,
+        "image": "https://tr.web.img4.acsta.net/pictures/bzp/01/143692.jpg",
+        "trailer": "https://www.youtube.com/embed/E-wMep9G32A"
+    },
+    {
+        "id": 21,
+        "isim": "Saklı Sayılar",
+        "tür": "Aksiyon, Biyografi, Dram",
+        "konu": "II. Dünya Savaşı sırasında, Afrikalı Amerikalı kadınlar NASA'da matematiksel hesaplamaları yapmak için çalışırken, beyaz erkeklerin ırksal ayrımcılığıyla mücadele ediyorlar.",
+        "IMDb": 7.8,
+        "image": "https://tr.web.img4.acsta.net/pictures/17/01/16/08/40/439961.jpg",
+        "trailer": "https://www.youtube.com/embed/WBpA0WChbDY"
+    },
+    {
+        "id": 22,
+        "isim": "Our Universe",
+        "tür": "Belgesel",
+        "konu": "Evrenin kökenine geniş bir bakış açısıyla, Dünya gezegenindeki hayata ve okyanusların nasıl işlediğine kadar doğal dünyanın farklı yönlerini takip ediyor. Morgan Freeman'ın anlatımıyla",
+        "IMDb": 7.6,
+        "image": "https://m.media-amazon.com/images/M/MV5BYmQ2OGFiODktMjg4Yi00ZDAzLWJkNjAtMTQyMzNlN2JkNzIyXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg",
+        "trailer": "https://www.youtube.com/embed/Q33TkQKlIMg"
+    },
+    {
+        "id": 23,
+        "isim": "Sosyal Ağ",
+        "tür": "Belgesel, Biyografi, Dram",
+        "konu": "Facebook'un kurucusu Mark Zuckerberg'ün hayat hikayesi ve Facebook'un yükselişi, eleştirisi ve hukuki tartışmaları ele alınır.",
+        "IMDb": 7.7,
+        "image": "https://tr.web.img4.acsta.net/pictures/bzp/01/147912.jpg",
+        "trailer": "https://www.youtube.com/embed/lB95KLmpLR4"
+    },
+    {
+        "id": 24,
+        "isim": "Grizzly Man",
+        "tür": "Belgesel, Biyografi, Suç",
+        "konu": "Timothy Treadwell adlı aktivist, Alaskalı kahverengi ayılarla üç yaz boyunca yaşamını belgelemek için Alaska'nın güneybatısındaki Katmai Ulusal Parkı'na seyahat eder. Ancak son yolculuğunda bir ayı tarafından öldürülür.",
+        "IMDb": 7.8,
+        "image": "https://m.media-amazon.com/images/M/MV5BODc3NTAxMTY1MV5BMl5BanBnXkFtZTcwOTE4NjUzMw@@._V1_.jpg",
+        "trailer": "https://www.youtube.com/embed/uWA7GtDmNFU"
+    },
+    {
+        "id": 25,
+        "isim": "Amy",
+        "tür": "Belgesel, Biyografi, Müzik",
+        "konu": "Amy Winehouse'un hayatı, müzikal kariyeri, kişisel sorunları ve ölümü ele alınır.",
+        "IMDb": 7.8,
+        "image": "https://tr.web.img4.acsta.net/pictures/15/10/05/15/56/061197.jpg",
+        "trailer": "https://www.youtube.com/embed/_2yCIwmNuLE"
+    },
+    {
+        "id": 26,
+        "isim": "The Fog of War",
+        "tür": "Belgesel, Biyografi, Tarih",
+        "konu": "Robert McNamara'nın, II. Dünya Savaşı, Vietnam Savaşı ve soğuk savaş dönemlerindeki yaşamı, askeri kariyeri ve politik felsefesi ele alınır.",
+        "IMDb": 8.1,
+        "image": "https://m.media-amazon.com/images/M/MV5BMTc3MTA4NDgzNl5BMl5BanBnXkFtZTcwOTAxNTQyMQ@@._V1_.jpg",
+        "trailer": "https://www.youtube.com/embed/YONEXPMVaQM"
+    },
+    {
+        "id": 27,
+        "isim": "Schindler'in Listesi",
+        "tür": "Biografi, Dram, Tarih",
+        "konu": "İkinci Dünya Savaşı sırasında Nazi işgali altındaki Polonya'da, Yahudilere yardım etmek için çabalarını anlatan bir Alman sanayicinin gerçek hikayesi.",
+        "IMDb": 8.9,
+        "image": "https://tr.web.img4.acsta.net/pictures/bzp/01/9393.jpg",
+        "trailer": "https://www.youtube.com/embed/VZk3gqBhWu4"
+    },
+    {
+        "id": 28,
+        "isim": "The Green Mile",
+        "tür": "Dram, Suç, Fantastik",
+        "konu": "1930'lu yıllarda, Louisiana'daki bir hapishanede gardiyan olan Paul Edgecomb'un, ölüme mahkum edilen bir mahkumla olan etkileşimleri ve onun tuhaf yetenekleri ele alınır.",
+        "IMDb": 8.6,
+        "image": "https://m.media-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_FMjpg_UX1000_.jpg",
+        "trailer": "https://www.youtube.com/embed/hfa5F-kRTq4"
+    },
+    {
+        "id": 30,
+        "isim": "Gladyatör",
+        "tür": "Aksiyon, Dram, Tarih",
+        "konu": "Romalı general Maximus'un, öldürülen imparatorun öz oğlu Commodus tarafından ihanete uğraması ve esir düşmesi sonrasında, gladyatör arenalarında verdiği mücadeleleri ele alan bir film.",
+        "IMDb": 8.5,
+        "image": "https://upload.wikimedia.org/wikipedia/tr/thumb/8/8d/Gladiator_ver1.jpg/220px-Gladiator_ver1.jpg",
+        "trailer": "https://www.youtube.com/embed/owK1qxDselE"
+    },
+    {
+        "id": 31,
+        "isim": "Casablanca",
+        "tür": "Dram, Romantik, Tarih",
+        "konu": "II. Dünya Savaşı sırasında, Vichy Fransası'nın kontrolündeki Kuzey Afrika şehri Casablanca'da, bir restoran sahibinin eski aşkıyla yeniden bir araya gelmesi ve aşkın savaşın ortasında nasıl hayatta kalabileceği ele alınır.",
+        "IMDb": 8.5,
+        "image": "https://tr.web.img4.acsta.net/pictures/bzp/01/2645.jpg",
+        "trailer": "https://www.youtube.com/embed/BVjtTD3YoIg"
+    },
+    {
+        "id": 32,
+        "isim": "Bir Rüya İçin Ağıt",
+        "tür": "Dram",
+        "konu": "Christopher Nolan tarafından yönetilen, gerçeklik ve hayal arasındaki sınırı bulanıklaştıran bir film.",
+        "IMDb": 8.8,
+        "image": "https://tr.web.img4.acsta.net/pictures/bzp/01/26602.jpg",
+        "trailer": "https://www.youtube.com/embed/_w0Ro67trFs"
+    },
+    {
+        "id": 33,
+        "isim": "Yedi",
+        "tür": "Gerilim",
+        "konu": "Dedektif Somerset ve yeni ortağı David Mills'in bir seri katilin peşindeki maceralarını ele alan bir gerilim filmi.",
+        "IMDb": 8.6,
+        "image": "https://tr.web.img3.acsta.net/pictures/bzp/01/13892.jpg",
+        "trailer": "https://www.youtube.com/embed/aKd27mpHlbQ"
+    },
+    {
+        "id": 34,
+        "isim": "Eternal Sunshine of the Spotless Mind",
+        "tür": "Dram, Romantik, Bilim Kurgu",
+        "konu": "Joel ve Clementine adlı iki kişinin, ayrıldıktan sonra birbirlerinden silinmeleri için bir işlem yaptırdıklarını ancak sonrasında birbirlerine geri dönmek istediklerini ele alan bir film.",
+        "IMDb": 8.3,
+        "image": "https://tr.web.img3.acsta.net/pictures/bzp/01/40191.jpg",
+        "trailer": "https://www.youtube.com/embed/yE-f1alkq9I"
+    },
+    {
+        "id": 35,
+        "isim": "Memento",
+        "tür": "Gerilim",
+        "konu": "Bir adamın karısının cinayetini araştırmasını ele alan bir gerilim filmi. Ancak, olaylar geriye doğru anlatılıyor, böylece izleyici de kahramanın bellek kaybı sorunuyla birlikte olayları çözmeye çalışıyor.",
+        "IMDb": 8.4,
+        "image": "https://tr.web.img2.acsta.net/pictures/bzp/01/25744.jpg",
+        "trailer": "https://www.youtube.com/embed/xH5h1Q-H3bc"
+    },
+    {
+        "id": 36,
+        "isim": "Prestij",
+        "tür": "Dram, Gizem",
+        "konu": "İki illüzyonistin arasındaki rekabeti ele alan bir film. Biri diğerini alt etmek için yeni bir numara tasarlar ve olaylar beklenmedik bir şekilde gelişir.",
+        "IMDb": 8.5,
+        "image": "https://tr.web.img3.acsta.net/pictures/bzp/01/108998.jpg",
+        "trailer": "https://www.youtube.com/embed/bBFFhMVk0FU"
+    },
+
+    {
+        "id": 39,
+        "isim": "A Separation",
+        "tür": "Dram",
+        "konu": "Bir aile mahkemede boşanma davası görürken, ailenin hizmetçisiyle olan ilişkisi de tartışmaya açılır.",
+        "IMDb": 8.3,
+        "image": "https://m.media-amazon.com/images/M/MV5BN2JmMjViMjMtZTM5Mi00ZGZkLTk5YzctZDg5MjFjZDE4NjNkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+        "trailer": "https://www.youtube.com/embed/58Onuy5USTc"
+    },
+    
+    {
+        "id": 41,
+        "isim": "Seyyit Han",
+        "tür": "Dram",
+        "konu": "Bir İran kasabasında yaşayan Seyyit Han, gücüyle ve zekasıyla bölgenin en önemli kişisi haline gelir.",
+        "IMDb": 8.6,
+        "image": "https://upload.wikimedia.org/wikipedia/tr/e/eb/Seyyit_Han.jpg",
+        "trailer": "https://www.youtube.com/embed/K3NRIkfbtXM"
+    },
+    {
+        "id": 42,
+        "isim": "Anbe Sivam",
+        "tür": "Dram/Komedi",
+        "konu": "İki farklı karakterin yolları kesişir ve yaptıkları yolculuk sırasında birbirleriyle bağlantı kurarlar.",
+        "IMDb": 8.5,
+        "image": "https://tr.web.img2.acsta.net/pictures/18/07/18/14/08/1191475.jpg",
+        "trailer": "https://www.youtube.com/embed/lPLN69KAukE"
+    },
+    {
+        "id": 43,
+        "isim": "Dangal",
+        "tür": "Spor/Drama",
+        "konu": "Babası kızları güreş sporuna teşvik eden bir baba, onları olimpiyatlara hazırlarken karşılaştığı zorluklarla yüzleşir.",
+        "IMDb": 8.4,
+        "image": "https://tr.web.img4.acsta.net/pictures/17/08/09/15/14/247902.jpg",
+        "trailer": "https://www.youtube.com/embed/x_7YlGv9u1g"
+    },
+    {
+        "id": 44,
+        "isim": "Taare Zameen Par",
+        "tür": "Drama/Famili",
+        "konu": "Disleksi olan bir çocuk, öğretmeninin ona olan ilgisi sayesinde yeteneklerini keşfeder ve özgüveni artar.",
+        "IMDb": 8.4,
+        "image": "https://upload.wikimedia.org/wikipedia/tr/c/c6/Taarezameenpar.jpg",
+        "trailer": "https://www.youtube.com/embed/F-PAI2HnQUo"
+    },
+    {
+        "id": 45,
+        "isim": "3 Idiots",
+        "tür": "Komedi/Drama",
+        "konu": "Üniversite hayatı boyunca arkadaşlarıyla birlikte, öğretim yöntemlerine karşı mücadele eden bir öğrencinin hikayesi.",
+        "IMDb": 8.3,
+        "image": "https://img.kitapyurdu.com/v1/getImage/fn:2306482/wh:true/wi:800",
+        "trailer": "https://www.youtube.com/embed/FuIhqN54pCc"
+    },
+    {
+        "id": 46,
+        "isim": "Andaz Apna Apna",
+        "tür": "Komedi",
+        "konu": "İki serseri, bir zengin kadını tavlamak için birbirleriyle yarışırken, bir dizi komik olay yaşarlar.",
+        "IMDb": 8.2,
+        "image": "https://m.media-amazon.com/images/M/MV5BZjA4NmE0NjgtZDg0ZS00Y2U0LWFjNjQtNzhhZWMxODk4Y2MwXkEyXkFqcGdeQXVyNDAzNDk0MTQ@._V1_.jpg",
+        "trailer": "https://www.youtube.com/embed/fd_w7Qw8biU"
+    },
+    {
+        "id": 47,
+        "isim": "Leaving Las Vegas",
+        "tür": "Dram/Romantik",
+        "konu": "Alkolik bir yazar, Las Vegas'a gelir ve bir fahişeyle tanışarak hayatındaki son günlerini yaşamaya karar verir.",
+        "IMDb": 7.5,
+        "image": "https://m.media-amazon.com/images/M/MV5BNDg3MDM5NTI0MF5BMl5BanBnXkFtZTcwNDY0NDk0NA@@._V1_.jpg",
+        "trailer": "https://www.youtube.com/embed/g60frRsNxms"
+    },
+    {
+        "id": 48,
+        "isim": "Adaptation",
+        "tür": "Dram/Komedi",
+        "konu": "Bir yazar, bir kitabı filme uyarlamaya çalışırken, hayatındaki farklı zorluklarla yüzleşir.",
+        "IMDb": 7.7,
+        "image": "https://m.media-amazon.com/images/M/MV5BN2JjNzVhOTMtNTc3Yi00NGNjLWI3YjgtYjkyZTYzY2FmMmIxXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_FMjpg_UX1000_.jpg",
+        "trailer": "https://www.youtube.com/embed/5VfPmhAiVXs"
+    },
+    {
+        "id": 49,
+        "isim": "Raising Arizona",
+        "tür": "Komedi/Suç",
+        "konu": "Kısırlık sorunu yaşayan bir çift, hapishanede bir mahkumun bebeklerini kaçırmaya karar verirler.",
+        "IMDb": 7.3,
+        "image": "https://m.media-amazon.com/images/M/MV5BOGUwZTEwZTYtZmQ0OS00NmM1LWE2ZTQtNjZiYmE4ZmUxMjk1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+        "trailer": "https://www.youtube.com/embed/OjWu8i6eMZo"
+    },
+    {
+        "id": 50,
+        "isim": "Face/Off",
+        "tür": "Aksiyon/Bilim-Kurgu",
+        "konu": "Bir ajan, bir teröristin yüzünü taklit ederek onun yerine geçer, ancak sonrasında teröristin kendisi de ajanın yüzünü taklit eder.",
+        "IMDb": 7.2,
+        "image": "https://tr.web.img3.acsta.net/pictures/bzp/01/99410.jpg",
+        "trailer": "https://www.youtube.com/embed/S-nDX0BeFoQ"
+    },
+    {
+        "id": 51,
+        "isim": "Moonstruck",
+        "tür": "Komedi/Dram/Romantik",
+        "konu": "Bir İtalyan-Amerikan kadın, nişanlısının ailesiyle tanışır ve onların aşk hayatlarına müdahale eder.",
+        "IMDb": 7.1,
+        "image": "https://m.media-amazon.com/images/M/MV5BMjIwMDY0NzYyMF5BMl5BanBnXkFtZTcwOTE5NDk0NA@@._V1_.jpg",
+        "trailer": "https://www.youtube.com/embed/M01_2CKL6PU"
+    },
+    {
+        "id": 52,
+        "isim": "One Flew Over the Cuckoo's Nest",
+        "tür": "Dram",
+        "konu": "Bir adam, akıl hastanesinde diğer hastalarla birlikte yaşar ve mücadele eder.",
+        "IMDb": 8.7,
+        "image": "https://turkcealtyazi.org/images/poster/0073486.jpg",
+        "trailer": "https://www.youtube.com/embed/OXrcDonY-B8"
+    },
+    {
+        "id": 53,
+        "isim": "The Shining",
+        "tür": "Dram/Korku",
+        "konu": "Bir yazar ve ailesi, bir otelde kışın bakıcılığını yapmak üzere görevlendirilirler, ancak otel karanlık sırlarla doludur.",
+        "IMDb": 8.4,
+        "image": "https://upload.wikimedia.org/wikipedia/tr/7/72/Shining.jpg",
+        "trailer": "https://www.youtube.com/embed/S014oGZiSdI"
+    },
+    {
+        "id": 54,
+        "isim": "Chinatown",
+        "tür": "Dram/Gizem",
+        "konu": "Bir özel dedektif, bir suç örgütünün çıkarlarına zarar verirken Los Angeles'ta bir dizi suçla karşı karşıya kalır.",
+        "IMDb": 8.1,
+        "image": "https://m.media-amazon.com/images/M/MV5BMjJkMDZhYzItZTFhMi00ZGI4LThlNTAtZDNlYmEwNjFkNDYzXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_FMjpg_UX1000_.jpg",
+        "trailer": "https://www.youtube.com/embed/T37QkBc4IGY"
+    },
+    {
+        "id": 55,
+        "isim": "Batman",
+        "tür": "Aksiyon/Macera",
+        "konu": "Batman, Joker'in kaosunu durdurmak için savaşırken Gotham şehrinde adaleti sağlamaya çalışır.",
+        "IMDb": 7.5,
+        "image": "https://tr.web.img2.acsta.net/pictures/22/02/02/08/41/1418124.jpg",
+        "trailer": "https://www.youtube.com/embed/mqqft2x_Aa4"
+    },
+    {
+        "id": 56,
+        "isim": "A Few Good Men",
+        "tür": "Dram/Suç",
+        "konu": "Bir askeri mahkemede bir avukat, iki askerin ölümüyle sonuçlanan bir olayı araştırırken karşı karşıya kalacağı zorluklarla mücadele eder.",
+        "IMDb": 7.7,
+        "image": "https://upload.wikimedia.org/wikipedia/tr/4/45/A_Few_Good_Men_poster.jpg",
+        "trailer": "https://www.youtube.com/embed/cXMNGokxbQA"
+    },
+    {
+        "id": 57,
+        "isim": "Yeşil Yol",
+        "tür": "Dram",
+        "konu": "Louisiana'da bir hapishanede gardiyanlık yapan Paul Edgecomb, acımasız bir gardiyan olmayan ama hapse düşen mahkumların yanında yer alan bir karakterdir. John Coffey adında bir mahkumun hikayesi anlatılır. Coffey, hapishaneye girdiğinde herkesin düşmanlığına uğrar.",
+        "IMDb": 8.6,
+        "image": "https://upload.wikimedia.org/wikipedia/tr/thumb/3/3b/YesilYol.jpg/220px-YesilYol.jpg",
+        "trailer": "https://www.youtube.com/embed/hfa5F-kRTq4"
+    },
+    {
+        "id": 58,
+        "isim": "Forrest Gump",
+        "tür": "Dram",
+        "konu": "Zeka seviyesi düşük olan Forrest Gump'ın, hayatının dönüm noktalarına odaklanan bir hikayesi anlatılır. Zeka seviyesine rağmen, birçok başarıya imza atan Forrest'ın, hayatındaki önemli kişilerle olan ilişkileri de hikayenin önemli bir parçasıdır.",
+        "IMDb": 8.8,
+        "image": "https://upload.wikimedia.org/wikipedia/tr/b/bb/Forrest_Gump_%28film%2C_1994%29.jpg",
+        "trailer": "https://www.youtube.com/embed/bLvqoHBptjg"
+    },
+    {
+        "id": 59,
+        "isim": "Philadelphia",
+        "tür": "Dram",
+        "konu": "Eşcinsel bir avukat olan Andrew Beckett, haksız yere işten atıldığını düşündüğü için işvereniyle dava açar. Ancak Beckett, AIDS hastalığına yakalandığı için işverenleri tarafından ayrımcılığa uğradığını iddia etmesi zorlaşmaktadır. Bu durum, hikayenin merkezindeki sorunlardan biridir.",
+        "IMDb": 7.7,
+        "image": "https://tr.web.img2.acsta.net/pictures/bzp/01/9432.jpg",
+        "trailer": "https://www.youtube.com/embed/CKDz2LVHz0Y"
+    },
+    {
+        "id": 60,
+        "isim": "Apollo 13",
+        "tür": "Dram",
+        "konu": "NASA'nın Apollo 13 görevi sırasında yaşadığı teknik sorunlar ve bu sorunların üstesinden nasıl gelindiği anlatılır. Tom Hanks, astronot Jim Lovell'ı canlandırırken, diğer önemli karakterler Kevin Bacon ve Bill Paxton tarafından canlandırılır.",
+        "IMDb": 7.6,
+        "image": "https://upload.wikimedia.org/wikipedia/tr/1/12/Apollo_13_film.jpg",
+        "trailer": "https://www.youtube.com/embed/KtEIMC58sZo"
+    },
+    {
+        "id": 62,
+        "isim": "Sivas",
+        "tür": "Drama",
+        "konu": "Bir çocuk ve sokak köpeği arasındaki dostluğu anlatan bir film.",
+        "IMDb": 7.8,
+        "image": "https://tr.web.img4.acsta.net/pictures/14/08/20/21/04/081665.jpg",
+        "trailer": "https://www.youtube.com/embed/-EMLty_EiRE"
+    },
+    {
+        "id": 63,
+        "isim": "Kelebeğin Rüyası",
+        "tür": "Drama",
+        "konu": "Türk halk müziği sanatçısı İbrahim Tatlıses'in hayatından esinlenilerek çekilmiş bir film.",
+        "IMDb": 7.7,
+        "image": "https://tr.web.img3.acsta.net/pictures/210/463/21046309_20131003090730236.jpg",
+        "trailer": ""
+    },
+    {
+        "id": 64,
+        "isim": "Uzak",
+        "tür": "Drama",
+        "konu": "İstanbul'dan ayrılıp doğduğu köye giden bir adamın hikayesi.",
+        "IMDb": 7.4,
+        "image": "https://tr.web.img3.acsta.net/pictures/bzp/01/52592.jpg",
+        "trailer": ""
+    },
+    {
+        "id": 65,
+        "isim": "Kelebeğin Rüyası",
+        "tür": "Drama",
+        "konu": "Türk halk müziği sanatçısı İbrahim Tatlıses'in hayatından esinlenilerek çekilmiş bir film.",
+        "IMDb": 7.7,
+        "image": "https://tr.web.img3.acsta.net/pictures/210/463/21046309_20131003090730236.jpg",
+        "trailer": "https://www.youtube.com/embed/16PIQrqEeos"
+    },
+    {
+        "id": 66,
+        "isim": "Ayla",
+        "tür": "Drama",
+        "konu": "Kore Savaşı'nda hayatını kaybeden Koreli bir kız çocuğunun Türk askeri Süleyman Dilbirliği tarafından sahiplenilmesi ve aralarındaki dostluğu konu alan film.",
+        "IMDb": 7.5,
+        "image": "https://tr.web.img4.acsta.net/c_310_420/pictures/17/09/22/11/00/1450733.jpg",
+        "trailer": "https://www.youtube.com/embed/ytBXzoVmiLU"
+    },
+    {
+        "id": 67,
+        "isim": "Kış Uykusu",
+        "tür": "Drama",
+        "konu": "Eski bir aktörün emeklilik döneminde geçirdiği sakin bir kış mevsiminde yaşadığı olayları konu alan film.",
+        "IMDb": 8.1,
+        "image": "https://tr.web.img4.acsta.net/pictures/14/06/05/12/02/003302.jpg",
+        "trailer": "https://www.youtube.com/embed/F2_H9b0H4d0"
+    },
+    {
+        "id": 69,
+        "isim": "Mutluluğun Peşinde",
+        "tür": "Drama",
+        "konu": "Hayatını değiştirecek bir işe başlamak üzere olan bir satış elemanı, oğlunun velayetini alır ve zorlu bir mücadeleye atılır.",
+        "IMDb": 8.0,
+        "image": "https://tr.web.img3.acsta.net/medias/nmedia/18/83/85/94/19712030.jpg",
+        "trailer": "https://www.youtube.com/embed/WmKM_BgzVzk"
+    },
+    {
+        "id": 70,
+        "isim": "Ben Efsaneyim",
+        "tür": "Aksiyon, Drama, Bilim Kurgu",
+        "konu": "Bir salgın nedeniyle insanların çoğu öldü ve geri kalanlar ise canavarlara dönüştü. New York City'deki tek hayatta kalan, bir çare bulmak için kahramanca mücadele eder.",
+        "IMDb": 7.2,
+        "image": "https://tr.web.img3.acsta.net/pictures/bzp/01/105557.jpg",
+        "trailer": "https://www.youtube.com/embed/viGCKRJ94FI"
+    },
+    {
+        "id": 71,
+        "isim": "Siyah Giyen Adamlar",
+        "tür": "Aksiyon, Macera, Komedi",
+        "konu": "Bir polis memuru, Dünya'daki uzaylı etkileşimlerini kontrol eden ve denetleyen gizli bir örgüte katılır.",
+        "IMDb": 7.3,
+        "image": "https://upload.wikimedia.org/wikipedia/tr/4/42/SiyahGiyenAdamlar-FilmAfi%C5%9Fi.jpg",
+        "trailer": "https://www.youtube.com/embed/B1MjPDfDg8k"
+    },
+    {
+        "id": 72,
+        "isim": "Bağımsızlık Günü",
+        "tür": "Aksiyon, Macera, Bilim Kurgu",
+        "konu": "Uzaylılar geliyor ve amacı Dünya'yı işgal etmek ve yok etmek. İnsanlığın en iyi silahı, hayatta kalmak için gösterdikleri iradedir.",
+        "IMDb": 7.0,
+        "image": "https://upload.wikimedia.org/wikipedia/tr/thumb/b/bb/Independence_day_movieposter.jpg/220px-Independence_day_movieposter.jpg",
+        "trailer": "https://www.youtube.com/embed/jfbzRUmdPV8"
+    },
+    {
+        "id": 73,
+        "isim": "Kötü Çocuklar",
+        "tür": "Aksiyon, Komedi, Suç",
+        "konu": "İki havalı dedektif, bir cinayet tanığına koruma sağlarken, polis karakolundaki kanıtlar odasından çalınan eroin vakası üzerinde soruşturma yaparlar.",
+        "IMDb": 6.9,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThezOmYMOS6FXUjOy9MzJJmx8G0Z0eBguy2EyO7Nac5IIpW9cgZU9dz2Unr1rS29TTZ90&usqp=CAU",
+        "trailer": "https://www.youtube.com/embed/tiABS5RUF9o"
+    },
+    {
+        "id": 74,
+        "isim": "Devlet Düşmanı",
+        "tür": "Aksiyon, Suç, Gerilim",
+        "konu": "Bir avukat, kazara ciddi bir siyasi suça ilişkin kilit kanıtları aldığında, yozlaşmış bir politikacı ve NSA adamları tarafından hedef haline gelir.",
+        "IMDb": 7.3,
+        "image": "https://tr.web.img3.acsta.net/pictures/bzp/01/16026.jpg",
+        "trailer": "https://www.youtube.com/embed/ZjogdKObxrI"
+    },
+    {
+        "id": 75,
+        "isim": "Aşk Doktoru",
+        "tür": "Komedi, Romantik",
+        "konu": "Son müşterisine aşık olurken, profesyonel bir 'randevu doktoru', müşterisinin hayallerindeki kadını etkilemek için uyguladığı yöntemlerin işe yaramadığını fark eder.",
+        "IMDb": 6.6,
+        "image": "https://tr.web.img4.acsta.net/pictures/bzp/03/47705.jpg",
+        "trailer": "https://www.youtube.com/embed/dMaq_pfxs-0"
+    },
+    {
+        "id": 76,
+        "isim": "Six Degrees of Separation",
+        "tür": "Komedi, Drama, Gizem",
+        "konu": "Zengin bir New York çifti, kim olduğu asla tam olarak belli olmayan gizemli bir genç siyah adam tarafından dokunulmuş, rahatsız edilmiş ve zorlanmıştır.",
+        "IMDb": 6.9,
+        "image": "https://m.media-amazon.com/images/I/81tTUfPHTOL._AC_UF894,1000_QL80_.jpg",
+        "trailer": "https://www.youtube.com/embed/IBO1Sr14eQQ"
+    },
+    {
+        "id": 77,
+        "isim": "Ali",
+        "tür": "Biyografi, Drama, Spor",
+        "konu": "Spor efsanesi Muhammed Ali'nin 1964 ile 1974 arasındaki zaferlerine ve tartışmalarına odaklanan bir biyografi.",
+        "IMDb": 6.8,
+        "image": "https://static.metacritic.com/images/products/movies/7/600dd739ba6e4919c3178c65573a39f4.jpg",
+        "trailer": "https://www.youtube.com/embed/STuHQ5HpmEE"
+    },
+    {
+        "id": 78,
+        "isim": "The Legend of Bagger Vance",
+        "tür": "Drama, Fantastik, Spor",
+        "konu": "Zirveden düşmüş bir golfçü, mistik bir caddy'nin yardımıyla oyununu ve hayatını geri kazanmaya çalışır.",
+        "IMDb": 6.7,
+        "image": "https://m.media-amazon.com/images/M/MV5BMWYzOGE4NGItYTAyNy00NDBkLTljYjMtYzE4MjFmYTY4NGVlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+        "trailer": "https://www.youtube.com/embed/znjcEycE4O4"
+    },
+    {
+        "id": 79,
+        "isim": "Brokeback Dağı",
+        "tür": "Drama, Romantik",
+        "konu": "İki çobanın, Ennis Del Mar ve Jack Twist'in 1963 yılında Wyoming'de başlayan aşk hikayesi ve yıllar boyu süren gizli ilişkileri anlatılır.",
+        "IMDb": 7.7,
+        "image": "https://tr.web.img4.acsta.net/c_310_420/pictures/bzp/01/54989.jpg",
+        "trailer": "https://www.youtube.com/embed/kMA30rThECg"
+    },
+    {
+        "id": 80,
+        "isim": "Nightcrawler",
+        "tür": "Gerilim, Suç, Drama",
+        "konu": "Lou Bloom adında bir adam, Los Angeles'ta bir stringer olarak çalışmaya başlar ve suç haberleri için kendi görüntülerini çekmeye başlar. Ancak bu, daha karanlık ve tehlikeli bir yola doğru ilerlemesine neden olur.",
+        "IMDb": 7.8,
+        "image": "https://m.media-amazon.com/images/M/MV5BN2U1YzdhYWMtZWUzMi00OWI1LWFkM2ItNWVjM2YxMGQ2MmNhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+        "trailer": "https://www.youtube.com/embed/u1uP_8VJkDQ"
+    },
+    {
+        "id": 81,
+        "isim": "Donnie Darko",
+        "tür": "Drama, Fantastik, Gizem",
+        "konu": "Görünmez bir güç tarafından yönlendirilen genç Donnie Darko, bir yolculuğa çıkar ve sonunda hayatının anlamını bulur.",
+        "IMDb": 8.0,
+        "image": "https://m.media-amazon.com/images/M/MV5BZjZlZDlkYTktMmU1My00ZDBiLWFlNjEtYTBhNjVhOTM4ZjJjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg",
+        "trailer": "https://www.youtube.com/embed/ZZyBaFYFySk"
+    },
+    {
+        "id": 82,
+        "isim": "Prisoners",
+        "tür": "Suç, Drama, Gizem",
+        "konu": "Bir ailenin kızı kaçırıldığında, babası ve arkadaşı kaçırılan kızı aramak için kendi adaletlerini sağlamak için polisten önce harekete geçerler.",
+        "IMDb": 8.1,
+        "image": "https://m.media-amazon.com/images/M/MV5BMTg0NTIzMjQ1NV5BMl5BanBnXkFtZTcwNDc3MzM5OQ@@._V1_.jpg",
+        "trailer": "https://www.youtube.com/embed/bpXfcTF6iVk"
+    },
+    {
+        "id": 83,
+        "isim": "Southpaw",
+        "tür": "Aksiyon, Drama, Spor",
+        "konu": "Boksör Billy Hope, karısı terk ettiğinde hayatı altüst olur. Ancak, kızının velayetini kazanmak ve hayatını yeniden düzeltmek için ringe geri döner.",
+        "IMDb": 7.4,
+        "image": "https://upload.wikimedia.org/wikipedia/en/8/89/Southpaw_poster.jpg",
+        "trailer": "https://www.youtube.com/embed/Mh2ebPxhoLs"
+    },
+    {
+        "id": 84,
+        "isim": "Source Code",
+        "tür": "Aksiyon, Bilim Kurgu, Gizem",
+        "konu": "Colter Stevens adında bir asker, terörist bir saldırının ardından, hafızası silinmiş bir şekilde bir trene konulur. Görevi, bombanın nerede olduğunu bulmak ve saldırıyı önlemektir.",
+        "IMDb": 7.5,
+        "image": "https://m.media-amazon.com/images/M/MV5BMTY0MTc3MzMzNV5BMl5BanBnXkFtZTcwNDE4MjE0NA@@._V1_.jpg",
+        "trailer": "https://www.youtube.com/embed/mnJegNyAb1w"
+    },
+    {
+        "id": 85,
+        "isim": "The Departed",
+        "tür": "Suç, Drama, Gerilim",
+        "konu": "Güney Boston'da, İrlandalı bir çete içine sızmakta olan bir gizli polis ve bu çetenin içindeki bir muhbir birbirlerini belirlemeye çalışır.",
+        "IMDb": 8.5,
+        "image": "https://upload.wikimedia.org/wikipedia/en/5/50/Departed234.jpg",
+        "trailer": "https://www.youtube.com/embed/iojhqm0JTW4"
+    },
+    {
+        "id": 86,
+        "isim": "Boogie Nights",
+        "tür": "Drama",
+        "konu": "Genç bir adamın, 1970'lerin sonlarında ve 1980'lerin başında Kaliforniya'daki porno endüstrisinde yaşadığı maceraların hikayesi.",
+        "IMDb": 7.9,
+        "image": "https://m.media-amazon.com/images/M/MV5BY2E2YWYxY2QtZmJmZi00MjJlLWFiYWItZTk5Y2IyMWQ1ZThhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+        "trailer": "https://www.youtube.com/embed/YN7pcEa83dU"
+    },
+    {
+        "id": 87,
+        "isim": "The Fighter",
+        "tür": "Biyografi, Drama, Spor",
+        "konu": "Boksör 'İrlandalı' Micky Ward'ın erken yıllarına ve profesyonel olarak orta 1980'lerde ringe çıkmadan önce ona antrenman yapan kardeşine bakış.",
+        "IMDb": 7.8,
+        "image": "https://m.media-amazon.com/images/M/MV5BMTM0ODk3MjM1MV5BMl5BanBnXkFtZTcwNzc1MDIwNA@@._V1_.jpg",
+        "trailer": "https://www.youtube.com/embed/LRIZ4mCi5Ps"
+    },
+    {
+        "id": 88,
+        "isim": "Three Kings",
+        "tür": "Aksiyon, Macera, Komedi",
+        "konu": "Pers Körfezi Savaşı'nın ardından, dört asker, Kuveyt'ten çalınan altını çalmak için yola çıkarlar, ancak yardıma ihtiyacı olan insanları keşfederler.",
+        "IMDb": 7.1,
+        "image": "https://m.media-amazon.com/images/M/MV5BMDU0ZDI3YmMtZDc1NS00ZGE0LWFlOTAtM2UzOTYwNDA3ZmE5XkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_.jpg",
+        "trailer": "https://www.youtube.com/embed/Bdal5c1TfmE"
+    },
+    {
+        "id": 89,
+        "isim": "The Other Guys",
+        "tür": "Aksiyon, Komedi, Suç",
+        "konu": "Uyuşmayan iki New York polisi, kahramanlık yapan şehrin en iyi polisleri gibi yükselmek için bir fırsatı ele geçirirler, ancak planları tam olarak istedikleri gibi gitmez.",
+        "IMDb": 6.6,
+        "image": "https://m.media-amazon.com/images/M/MV5BMDlhZDQ5NDUtNDcwMi00MTQ5LTk1Y2UtYjNmMjgzNzNhNzU3XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+        "trailer": "https://www.youtube.com/embed/D6WOoUG1eNo"
+    },
+    {
+        "id": 90,
+        "isim": "The Italian Job",
+        "tür": "Aksiyon, Suç, Gerilim",
+        "konu": "İtalya'da ihanete uğrayıp ölüme terk edilen Charlie Croker ve ekibi, eski müttefiklerine karşı karmaşık bir altın soygunu planlarlar.",
+        "IMDb": 7.0,
+        "image": "https://m.media-amazon.com/images/M/MV5BNDYyNzYxNjYtNmYzMC00MTE0LWIwMmYtNTAyZDBjYTIxMTRhXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
+        "trailer": "https://www.youtube.com/embed/uw6jY3VuOcI"
+    },
+    {
+        "id": 91,
+        "isim": "Lone Survivor",
+        "tür": "Aksiyon, Biyografi, Drama",
+        "konu": "Marcus Luttrell ve ekibi, Haziran 2005'in sonlarında ünlü Taliban lideri Ahmad Shah'ı yakalamak veya öldürmek için bir görevde yola çıkarlar. Marcus ve ekibi modern savaş tarihinin en cesur çabalarından birinde hayatta kalmak için mücadele ederler.",
+        "IMDb": 7.5,
+        "image": "https://m.media-amazon.com/images/M/MV5BMjA0NTgwOTk5Ml5BMl5BanBnXkFtZTcwMjE3NDc5OQ@@._V1_.jpg",
+        "trailer": "https://www.youtube.com/embed/yoLFk4JK_RM"
+    },
+    {
+        "id": 92,
+        "isim": "The Godfather of Harlem",
+        "tür": "Suç, Dram",
+        "konu": "Gerçek bir suç patronu olan Bumpy Johnson'ın hikayesi. 1960'ların başında, 10 yıl hapis yattıktan sonra, bir zamanlar yönettiği mahalleyi harabe halinde bulur.",
+        "IMDb": 8.4,
+        "image": "https://m.media-amazon.com/images/M/MV5BNDExMTNkZDUtMzU5NC00ZWUwLTlkOTUtNzU0ZmYxMzk5YjEwXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_.jpg",
+        "trailer": "https://www.youtube.com/embed/TY2iauDjadI"
+    },
+    {
+        "id": 93,
+        "isim": "Malcolm X",
+        "tür": "Biyografi, Dram, Tarih",
+        "konu": "Tartışmalı ve etkili Siyah Milliyetçi liderin biyografisi. Hayatının erken dönemlerinden küçük çete lideri olarak başlayan Malcolm X, Nation of Islam üyesi bir vaiz olarak kariyerine devam eder.",
+        "IMDb": 7.7,
+        "image": "https://m.media-amazon.com/images/M/MV5BZDkzOTFmMTUtMmI2OS00MDE4LTg5YTUtODMwNDMzNmI5OGYwL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+        "trailer": "https://www.youtube.com/embed/sx4sEvhYeVE"
+    },
+    {
+        "id": 94,
+        "isim": "Training Day",
+        "tür": "Suç, Dram, Gerilim",
+        "konu": "Los Angeles Narkotik Şube'de görev yaparken ilk gününde, bir çaylak polis, göründüğü gibi olmayan asi bir dedektif ile birlikte narkotik bölümünde tam bir iş gününden fazla zaman geçirir.",
+        "IMDb": 7.7,
+        "image": "https://m.media-amazon.com/images/M/MV5BMDZkMTUxYWEtMDY5NS00ZTA5LTg3MTItNTlkZWE1YWRjYjMwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+        "trailer": "https://www.youtube.com/embed/DXPJqRtkDP0"
+    },
+    {
+        "id": 95,
+        "isim": "American Gangster",
+        "tür": "Biyografi, Suç, Dram",
+        "konu": "1970'lerde Amerika'da, bir dedektif Manhattan'dan bir eroin kralı olan Frank Lucas'ın uyuşturucu imparatorluğunu yıkmak için çalışır. Lucas, Uzak Doğu'dan uyuşturucuyu ülkeye sokmaktadır.",
+        "IMDb": 7.8,
+        "image": "https://upload.wikimedia.org/wikipedia/en/9/9f/American_Gangster_poster.jpg",
+        "trailer": "https://www.youtube.com/embed/BV_nssS6Zkg"
+    },
+    {
+        "id": 96,
+        "isim": "Glory",
+        "tür": "Dram, Savaş",
+        "konu": "Robert Gould Shaw, Amerikan İç Savaşı'nın ilk tamamen siyah gönüllü birliğini yönetir. Hem kendi Birlik Ordusu'ndan hem de Konfederasyon kuvvetlerinden önyargılarla mücadele ederler.",
+        "IMDb": 7.8,
+        "image": "https://flxt.tmsimg.com/assets/p12022_p_v8_aa.jpg",
+        "trailer": "https://www.youtube.com/embed/0hVrYRqeT5M"
+    },
+    {
+        "id": 97,
+        "isim": "The Book of Eli",
+        "tür": "Aksiyon, Macera, Drama",
+        "konu": "İnsanlığı kurtarmanın sırlarını içeren kutsal bir kitabı korumak için Amerika'ya doğru yolculuğuna devam eden yalnız bir adamın hikayesi anlatılır.",
+        "IMDb": 6.9,
+        "image": "https://m.media-amazon.com/images/M/MV5BNTE1OWI1YzgtZjEyMy00MjQ4LWE0NWMtYTNhYjc0ZDQ3ZGRkXkEyXkFqcGdeQXVyNDQ2MTMzODA@._V1_.jpg",
+        "trailer": "https://www.youtube.com/embed/zSMHmtaoXtI"
+    },
+    {
+        "id": 98,
+        "isim": "Remember the Titans",
+        "tür": "Dram, Spor",
+        "konu": "Yeni atanan Afrikalı-Amerikalı bir koç ve ilk kez ırk olarak entegre bir takımın ilk sezonunun gerçek hikayesi.",
+        "IMDb": 7.8,
+        "image": "https://m.media-amazon.com/images/M/MV5BYThkMzgxNjEtMzFiOC00MTI0LWI5MDItNDVmYjA4NzY5MDQ2L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+        "trailer": "https://www.youtube.com/embed/35MvdHBWjwU"
+    },
+    {
+        "id": 100,
+        "isim": "Howards End",
+        "tür": "Dram, Romantik",
+        "konu": "Edwardian döneminde İngiltere'de zengin ve yoksul bir aile arasındaki sosyal ve romantik etkileşimleri konu alan bir film.",
+        "IMDb": 7.5,
+        "image": "https://m.media-amazon.com/images/M/MV5BMTk3MDY3NDc2NF5BMl5BanBnXkFtZTgwODcwNjgzOTE@._V1_.jpg",
+        "trailer": "https://www.youtube.com/embed/M3o4t9ATM6w"
+    },
+    {
+        "id": 101,
+        "isim": "Nixon",
+        "tür": "Biyografi, Drama, Tarih",
+        "konu": "ABD'nin 37. başkanı Richard Nixon'ın hayatı ve siyasi kariyeri.",
+        "IMDb": 7.0,
+        "image": "https://upload.wikimedia.org/wikipedia/en/d/df/Nixonmovieposter.jpg",
+        "trailer": "https://www.youtube.com/embed/dO2LWKpeyI8"
+    },
+    {
+        "id": 102,
+        "isim": "Fil Adam",
+        "tür": "Biografi, Dram",
+        "konu": "Gerçek bir hikayeye dayanan, deformasyona uğramış bir adamın hikayesi ve onun acılarına, yalnızlığına ve insanlığına odaklanan bir film.",
+        "IMDb": 8.1,
+        "image": "https://upload.wikimedia.org/wikipedia/tr/6/6b/Elephant_man.jpg",
+        "trailer": "https://www.youtube.com/embed/AF9gNKJi79g"
+    },
+    {
+        "id": 103,
+        "isim": "Cesur Yürek",
+        "tür": "Dram, Romantik, Savaş",
+        "konu": "I. Dünya Savaşı'nda ailelerinin trajik ölümlerinin ardından bir adamın İskoçya'da özgürlük mücadelesine liderlik etmesi.",
+        "IMDb": 7.5,
+        "image": "https://upload.wikimedia.org/wikipedia/tr/e/e6/Braveheart.jpg",
+        "trailer": "https://www.youtube.com/embed/bnOHqdCJXt0"
+    },
+    {
+        "id": 104,
+        "isim": "Making a Murderer",
+        "tür": "Suç, Belgesel",
+        "konu": "Belgesel, Steven Avery'nin 1985 yılında suçsuz yere hapse atılmasını ve 18 yıl sonra özgürlüğüne kavuşmasını konu almaktadır. Ancak, Avery sonrasında işlediği suçlar nedeniyle yeniden hapse girer ve belgesel, onun masumiyetini savunanlar ve suçluluğunu kanıtlayanlar arasındaki mücadeleyi anlatır.",
+        "IMDb": 8.6,
+        "image": "https://m.media-amazon.com/images/M/MV5BMTg4Mjc1NjE4Ml5BMl5BanBnXkFtZTgwMjk2NjA1NjM@._V1_.jpg",
+        "trailer": "https://www.youtube.com/embed/qxgbdYaR_KQ"
+    },
+    {
+        "id": 105,
+        "isim": "The Keepers",
+        "tür": "Suç, Belgesel",
+        "konu": "Belgesel, Baltimore'daki bir Katolik okulundaki cinayetle ilgili bir gizemi çözmeye çalışır. Okulun bir öğrencisi, 1969 yılında öldürülmüştür ve cinayet hala çözülmemiştir. Belgesel, o dönemde okula giden kadınların, cinayetle ilgili iddialarını ortaya koyarak, cinayeti çözmeye çalışmasını anlatır.",
+        "IMDb": 8.1,
+        "image": "https://m.media-amazon.com/images/M/MV5BOGY2ODI0NDMtMmViMS00NGI2LWJlYWQtODk4NzlkNGVmMjU0XkEyXkFqcGdeQXVyNzE1ODI0OTg@._V1_.jpg",
+        "trailer": "https://www.youtube.com/embed/Khr7dbuBjuE"
+    },
+    {
+        "id": 106,
+        "isim": "The Jinx: The Life and Deaths of Robert Durst",
+        "tür": "Suç, Belgesel",
+        "konu": "Belgesel, milyarder Robert Durst'un hayatını ve ölümleri araştırıyor. Durst, karısı, bir arkadaşı ve bir komşusuyla ilgili ölümlerden dolayı şüpheliydi ve belgesel, onun hayatındaki olayları ve bu olayların ardındaki olası suçları anlatır.",
+        "IMDb": 8.6,
+        "image": "https://m.media-amazon.com/images/M/MV5BMjI0OTc3MzY5Ml5BMl5BanBnXkFtZTgwNjk3MDUyNDE@._V1_FMjpg_UX1000_.jpg",
+        "trailer": "https://www.youtube.com/embed/8ZabDYB7ijM"
+    },
+    {
+        "id": 108,
+        "isim": "The Truman Show",
+        "tür": "Komedi, Drama, Bilim Kurgu",
+        "konu": "Hayatı boyunca kendisini bir reality showda yaşadığını bilmeyen Truman Burbank, gerçekleri öğrendikten sonra kendisini şovdan kurtarmaya çalışır.",
+        "IMDb": 8.1,
+        "image": "https://m.media-amazon.com/images/M/MV5BMDIzODcyY2EtMmY2MC00ZWVlLTgwMzAtMjQwOWUyNmJjNTYyXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
+        "trailer": "https://www.youtube.com/embed/dlnmQbPGuls"
+    },
+    {
+        "id": 109,
+        "isim": "Ace Ventura: Pet Detective",
+        "tür": "Komedi, Suç, Gizem",
+        "konu": "Evcil hayvanların kaybolması veya kaçırılması gibi olayları araştıran Ace Ventura, son kayıp pandanın peşinde New England'a gider.",
+        "IMDb": 6.9,
+        "image": "https://m.media-amazon.com/images/M/MV5BYmVhNmFmOGYtZjgwNi00ZGQ0LThiMmQtOGZjMDUzNzJhMGIzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+        "trailer": "https://www.youtube.com/embed/9TvHtuLgv94"
+    },
+    {
+        "id": 110,
+        "isim": "Dumb and Dumber",
+        "tür": "Komedi",
+        "konu": "İki arkadaş, bir bavulla dolusu parayı sahibine ulaştırmak üzere yola çıkarlar ancak maceralı bir yolculuk sonucu işler istedikleri gibi gitmez.",
+        "IMDb": 7.3,
+        "image": "https://m.media-amazon.com/images/M/MV5BZDQwMjNiMTQtY2UwYy00NjhiLTk0ZWEtZWM5ZWMzNGFjNTVkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+        "trailer": "https://www.youtube.com/embed/l13yPhimE3o"
+    },
+    {
+        "id": 111,
+        "isim": "Liar Liar",
+        "tür": "Komedi, Fantastik",
+        "konu": "Bir avukat, oğlunun doğum gününde ona bir yalan söyler ancak bu yalan sonucu kendisi gerçek dışı şeyleri söyleyemez hale gelir.",
+        "IMDb": 6.9,
+        "image": "https://m.media-amazon.com/images/M/MV5BYjZlYmJjYWYtZDM0NS00YmZlLWIyMTAtMDY5ZTNjZTgwMDhjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+        "trailer": "https://www.youtube.com/embed/C1no75lpOiw"
+    },
+    {
+        "id": 112,
+        "isim": "Bruce Almighty",
+        "tür": "Komedi, Fantastik",
+        "konu": "Başarısız bir haber muhabiri olan Bruce, Tanrı'nın kendisine verdiği güçleri kullanarak hayatını değiştirmeye çalışır.",
+        "IMDb": 6.8,
+        "image": "https://m.media-amazon.com/images/M/MV5BNzMyZDhiZDUtYWUyMi00ZDQxLWE4NDQtMWFlMjI1YjVjMjZiXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+        "trailer": "https://www.youtube.com/embed/fe-luzrqWSk"
+    },
+    {
+        "id": 113,
+        "isim": "The Mask",
+        "tür": "Komedi, Aksiyon, Fantastik",
+        "konu": "Bir banka memuru, gizemli bir maskeyi takınca yaşamı değişir ve çılgın bir süper kahramana dönüşür.",
+        "IMDb": 6.9,
+        "image": "https://m.media-amazon.com/images/M/MV5BOWExYjI5MzktNTRhNi00Nzg2LThkZmQtYWVkYjRlYWI2MDQ4XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+        "trailer": "https://www.youtube.com/embed/LT8kBr3TUvk"
+    },
+    {
+        "id": 114,
+        "isim": "Man on the Moon",
+        "tür": "Biyografi, Komedi, Drama",
+        "konu": "Komedyen Andy Kaufman'ın hayatını anlatan film, onun sahne hayatında yarattığı tuhaf karakterleri ve hayatındaki olayları konu alır.",
+        "IMDb": 7.4,
+        "image": "https://m.media-amazon.com/images/M/MV5BNDI1Mjc3MzAtZDk0OS00OTZlLTlhZjktNzA3ODgwZGY2NWIwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+        "trailer": "https://www.youtube.com/embed/pCcQB-iT7LY"
+    },
+    {
+        "id": 115,
+        "isim": "Rocky",
+        "tür": "Drama, Spor",
+        "konu": "Küçük bir boksör kendine saygısı için son derece nadir bir şans elde ederek ağır sıklet şampiyonuyla dövüşmek için mücadele eder.",
+        "IMDb": 8.1,
+        "image": "https://upload.wikimedia.org/wikipedia/en/d/db/Rocky_Balboa_%282006%29_theatrical_poster.jpg",
+        "trailer": "https://www.youtube.com/embed/-Hk-LYcavrw"
+    },
+    {
+        "id": 116,
+        "isim": "Raging Bull",
+        "tür": "Biyografi, Drama, Spor",
+        "konu": "Boksör Jake LaMotta'nın hayatı, ringdeki şiddeti ve öfkesi, hayatının dışında onu yok etti.",
+        "IMDb": 8.2,
+        "image": "https://m.media-amazon.com/images/M/MV5BYjRmODkzNDItMTNhNi00YjJlLTg0ZjAtODlhZTM0YzgzYThlXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_.jpg",
+        "trailer": "https://www.youtube.com/embed/yUp6d79WRVI"
+    },
+    {
+        "id": 117,
+        "isim": "Hoosiers",
+        "tür": "Drama, Spor",
+        "konu": "Geçmişi karanlık bir antrenör ve bir yerli alkolik, küçük bir kasaba lisesi basketbol takımını şampiyonluğa en güçlü aday haline getirmek için çalışırlar.",
+        "IMDb": 7.5,
+        "image": "https://m.media-amazon.com/images/M/MV5BMTYyNTc0OTUwNV5BMl5BanBnXkFtZTcwODA3NzE0NA@@._V1_.jpg",
+        "trailer": "https://www.youtube.com/embed/33DEm0eW-wU"
+    },
+    {
+        "id": 118,
+        "isim": "Miracle",
+        "tür": "Biyografi, Drama, Spor",
+        "konu": "Gerçek hikaye, 1980 ABD Olimpiyat hokey takımını görünüşte yenilmez Sovyet takımına karşı zafer kazandıran eski oyuncu-dönüşümlü-antrenör Herb Brooks'un hayatını anlatıyor.",
+        "IMDb": 7.5,
+        "image": "https://m.media-amazon.com/images/M/MV5BMjEyOTk1OTcyNV5BMl5BanBnXkFtZTYwNjMzNDU3._V1_FMjpg_UX1000_.jpg",
+        "trailer": "https://www.youtube.com/embed/Bd0_Dm2xlEM"
+    },
+    {
+        "id": 119,
+        "isim": "Chariots of Fire",
+        "tür": "Drama, Spor",
+        "konu": "İki İngiliz koşucu, biri kararlı bir Yahudi diğeri dindar bir Hristiyan, 1924 Olimpiyatları'nda yarışırlar.",
+        "IMDb": 7.2,
+        "image": "https://m.media-amazon.com/images/M/MV5BZjNlNDFmM2ItMDE0Zi00MWNiLTljOWQtZGQ1YTQ2ZWUzZDU2XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+        "trailer": "https://www.youtube.com/embed/odtqtlhsv4E"
+    },
+    {
+        "id": 120,
+        "isim": "Moneyball",
+        "tür": "Biyografi, Drama, Spor",
+        "konu": "Oakland A's genel müdürü Billy Beane, bilgisayar tarafından üretilen analizi kullanarak bütçesi dahilinde bir beyzbol takımı kurma başarısı gösterir.",
+        "IMDb": 7.6,
+        "image": "https://m.media-amazon.com/images/M/MV5BMjAxOTU3Mzc1M15BMl5BanBnXkFtZTcwMzk1ODUzNg@@._V1_.jpg",
+        "trailer": "https://www.youtube.com/embed/-4QPVo0UIzc"
+    },
+    {
+        "id": 121,
+        "isim": "The Fighter",
+        "tür": "Biyografi, Drama, Spor",
+        "konu": "Boksör 'İrlandalı' Micky Ward'ın erken yıllarına ve 1980'lerin ortalarında profesyonel olmadan önce ona yardımcı olan kardeşiyle birlikte antrenman yapmasına bakıyor.",
+        "IMDb": 7.8,
+        "image": "https://m.media-amazon.com/images/M/MV5BMTM0ODk3MjM1MV5BMl5BanBnXkFtZTcwNzc1MDIwNA@@._V1_.jpg",
+        "trailer": "https://www.youtube.com/embed/LRIZ4mCi5Ps"
+    },
+    {
+        "id": 123,
+        "isim": "İyi, Kötü ve Çirkin",
+        "tür": "Western",
+        "konu": "Bir ödül avcılığı dolandırıcılığı üç adamı, uzak bir mezarlıkta gömülü altın servetini bulmak için mücadele ederken bir araya getirir.",
+        "IMDb": 8.8,
+        "image": "https://tr.web.img3.acsta.net/pictures/bzp/01/19395.jpg",
+        "trailer": "https://www.youtube.com/embed/o0XhFQGOwxM"
+    },
+    {
+        "id": 127,
+        "isim": "Muhteşem Yedili",
+        "tür": "Aksiyon, Macera, Western",
+        "konu": "Bir dizi arka planı farklı yedi silahşör, yıkıcı bir sanayici özel ordusuna karşı koruma görevi verilen bir genç dul kadın tarafından bir araya getirilir.",
+        "IMDb": 7.7,
+        "image": "https://tr.web.img4.acsta.net/pictures/16/08/17/10/35/350147.jpg",
+        "trailer": "https://www.youtube.com/embed/0LevWWeISJs"
+    },
+    {
+        "id": 128,
+        "isim": "Yüksek Öğlen",
+        "tür": "Drama, Western",
+        "konu": "Bir kasaba şerifi, yeni evli eşi ve etrafındaki kasaba halkının itirazlarına rağmen, öğlen yüksekliğinde, yıllar önce hapise gönderdiği bir kanunsuzun liderliğindeki ölümcül katillerin grubuyla yalnız yüzleşmek zorundadır.",
+        "IMDb": 7.9,
+        "image": "https://ae01.alicdn.com/kf/H536fc13ae5764bc6afe1874b2c222636l/Y-ksek-le-Film-sanat-filmi-bask-pek-Poster-ev-duvar-dekoru-24x36inch.png_.webp",
+        "trailer": "https://www.youtube.com/embed/oY0oJc3H_bs"
+    },
+    {
+        "id": 130,
+        "isim": "Django Çalıntı Hayatlar",
+        "tür": "Drama, Western",
+        "konu": "Bir Alman ödül avcısının yardımıyla, bir özgürleşmiş köle, acımasız bir Mississippi çiftliği sahibinden karısını kurtarmak için yola çıkar.",
+        "IMDb": 8.4,
+        "image": "https://m.media-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+        "trailer": "https://www.youtube.com/embed/Gz3zYNWHVAo"
+    },
+    {
+        "id": 131,
+        "isim": "The Lion King",
+        "tür": "Animasyon, Aile, Macera",
+        "konu": "Bir aslan krallığında doğan ve tahtın varisi olan Simba, büyüdükçe zorlu bir yolculuğa çıkar ve babasının ölümünün ardındaki gerçeği öğrenir.",
+        "IMDb": 8.5,
+        "image": "https://images.moviesanywhere.com/c07276e9473360730fdbc94baebc4236/4692c964-61ba-486d-9c77-939dbfba2f07.jpg",
+        "trailer": "https://www.youtube.com/embed/lFzVJEksoDY"
+    },
+    {
+        "id": 132,
+        "isim": "The Incredibles",
+        "tür": "Animasyon, Aile, Aksiyon",
+        "konu": "Eski süper kahramanlar olan Bob ve Helen Parr, bir yandan çocuklarına normal bir hayat sağlamaya çalışırken diğer yandan da yeni bir düşmanla savaşmak zorunda kalırlar.",
+        "IMDb": 8.0,
+        "image": "https://m.media-amazon.com/images/M/MV5BMTY5OTU0OTc2NV5BMl5BanBnXkFtZTcwMzU4MDcyMQ@@._V1_.jpg",
+        "trailer": "https://www.youtube.com/embed/-UaGUdNJdRQ"
+    },
+    {
+        "id": 133,
+        "isim": "Up",
+        "tür": "Animasyon, Aile, Macera",
+        "konu": "78 yaşındaki Carl Fredricksen, evini yükseltmek için bir sürü balon kullanarak Güney Amerika'ya gider ve yolda genç bir maceracı olan Russell ile tanışır.",
+        "IMDb": 8.2,
+        "image": "https://upload.wikimedia.org/wikipedia/en/0/05/Up_%282009_film%29.jpg",
+        "trailer": "https://www.youtube.com/embed/HWEW_qTLSEE"
+    },
+    {
+        "id": 134,
+        "isim": "E.T. the Extra-Terrestrial",
+        "tür": "Aile, Bilim Kurgu",
+        "konu": "Bir yabancı olan E.T., evinden ayrılmış ve arkadaşlarına geri dönmek için yardım arayan bir çocuk olan Elliott ile tanışır.",
+        "IMDb": 7.8,
+        "image": "https://m.media-amazon.com/images/M/MV5BMTQ2ODFlMDAtNzdhOC00ZDYzLWE3YTMtNDU4ZGFmZmJmYTczXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+        "trailer": "https://www.youtube.com/embed/qYAETtIIClk"
+    },
+    {
+        "id": 135,
+        "isim": "Inside Out",
+        "tür": "Animasyon, Aile, Macera",
+        "konu": "11 yaşındaki Riley'nin zihnindeki beş temel duygu - Mutluluk, Korku, Öfke, Tiksinti ve Üzüntü - arasındaki çekişme konu alınır.",
+        "IMDb": 8.1,
+        "image": "https://m.media-amazon.com/images/M/MV5BOTgxMDQwMDk0OF5BMl5BanBnXkFtZTgwNjU5OTg2NDE@._V1_.jpg",
+        "trailer": "https://www.youtube.com/embed/yRUAzGQ3nSY"
+    },
+    {
+        "id": 136,
+        "isim": "Finding Nemo",
+        "tür": "Animasyon, Aile, Macera",
+        "konu": "Kayıp oğlu Nemo'yu bulmak için okyanusun derinliklerine dalan bir balık olan Marlin'in hikayesi anlatılır.",
+        "IMDb": 8.1,
+        "image": "https://lumiere-a.akamaihd.net/v1/images/p_findingnemo_19752_05271d3f.jpeg?region=0%2C0%2C540%2C810",
+        "trailer": "https://www.youtube.com/embed/2zLkasScy7A"
+    },
+    {
+        "id": 137,
+        "isim": "Ruhların Kaçışı",
+        "tür": "Animasyon, Fantastik, Macera",
+        "konu": "Küçük bir kız, ebeveynlerinin ve onların arkadaşlarının hayaletlerine karşı mücadele ederken ruhların dünyasında ilerler.",
+        "IMDb": 8.6,
+        "image": "https://tr.web.img3.acsta.net/pictures/bzp/01/37485.jpg",
+        "trailer": "https://www.youtube.com/embed/ByXuk9QqQkk"
+    },
+    {
+        "id": 138,
+        "isim": "Rüzgar Yükseliyor",
+        "tür": "Animasyon, Biyografi, Dram",
+        "konu": "Japonya'nın önde gelen uçak tasarımcısı Jiro Horikoshi'nin hayatına dayanan filmde, Jiro'un hayalleri ve aşkı, birinci ve ikinci dünya savaşları arasındaki dönemde geçen bir hikaye anlatılıyor.",
+        "IMDb": 8.0,
+        "image": "https://tr.web.img3.acsta.net/pictures/14/02/28/17/16/513725.jpg",
+        "trailer": "https://www.youtube.com/embed/RzSpDgiF5y8"
+    },
+    {
+        "id": 139,
+        "isim": "Prenses Mononoke",
+        "tür": "Animasyon, Macera, Fantastik",
+        "konu": "Genç bir prenses olan Mononoke, insanlar ve tanrıların dünyası arasında sıkışmıştır. Ateşli doğanın güçleriyle donatılmıştır ve hayatını, doğayı korumak için insanlarla mücadele ederek geçirir.",
+        "IMDb": 8.4,
+        "image": "https://upload.wikimedia.org/wikipedia/en/8/8c/Princess_Mononoke_Japanese_poster.png",
+        "trailer": "https://www.youtube.com/embed/4OiMOHRDs14"
+    },
+    {
+        "id": 141,
+        "isim": "Kiki's Delivery Service",
+        "tür": "Animasyon, Macera, Aile",
+        "konu": "Genç bir cadı olan Kiki, fırınındaki güçlerini kullanarak bir kurye hizmeti başlatır. Ancak, yeni hayatında karşılaştığı zorluklarla mücadele etmek zorundadır.",
+        "IMDb": 7.8,
+        "image": "https://m.media-amazon.com/images/M/MV5BYTQ1ZTM1ZTgtN2Q2Ny00YjFkLTliNjEtN2I1ZmY5ZTY1OTEzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+        "trailer": "https://www.youtube.com/embed/4bG17OYs-GA"
+    },
+    {
+        "id": 142,
+        "isim": "Howl'ın Yürüyen Şatosu",
+        "tür": "Animasyon, Macera, Fantastik",
+        "konu": "Bir cadı tarafından lanetlenmiş olan Sophie, bir yürüyen şatoda yaşayan gizemli bir adam olan Howl'a rastlar. Sophie ve Howl, aşkları ve sırları arasında tehlikeli bir maceraya atılırlar.",
+        "IMDb": 8.2,
+        "image": "https://tr.web.img2.acsta.net/pictures/bzp/01/50409.jpg",
+        "trailer": "https://www.youtube.com/embed/iwROgK94zcM"
+    },
+    {
+        "id": 143,
+        "isim": "Now You See Me",
+        "tür": "Aksiyon, Soygun, Gizem",
+        "konu": "Atlas isimli son derece karizmatik ve etkileyici bir illüzyonistin liderliğini yaptığı, dünyanın en iyi sihirbazlarından oluşan 'Four Horsemen' ekibinin başından geçenleri konu alıyor.",
+        "IMDb": 7.2,
+        "image": "https://m.media-amazon.com/images/M/MV5BMTY0NDY3MDMxN15BMl5BanBnXkFtZTcwOTM5NzMzOQ@@._V1_.jpg",
+        "trailer": "https://www.youtube.com/embed/KzJNYYkkhzc"
+    },
+    {
+        "id": 144,
+        "isim": "Kuzuların Sessizliği",
+        "tür": "Dram, Gerilim",
+        "konu": "Genç bir FBI ajanı, cani Dr. Hannibal Lecter'ın yardımıyla bir seri katilin peşine düşer.",
+        "IMDb": 8.6,
+        "image": "https://upload.wikimedia.org/wikipedia/tr/7/70/Kuzular%C4%B1n_Sessizli%C4%9Fi_film_afi%C5%9Fi.jpg",
+        "trailer":"https://www.youtube.com/embed/SGR05ypBMmo"
+    }
+]

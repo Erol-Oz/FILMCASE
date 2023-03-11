@@ -1,0 +1,74 @@
+import {StyleSheet} from "react-native"
+export default StyleSheet.create({
+card_body:{
+  margin:10,
+},
+card_container:{
+    flexDirection:"row",
+    flex:1,
+},
+card_image:{
+    width:100,
+    height:150,
+    flex:1,
+    shadowColor: 'white',
+    shadowOffset: {width: 5, height: 5},
+    shadowRadius: 5,  
+},
+card_info:{
+flexDirection:"column",
+paddingLeft:10,
+
+},
+card_isim:{
+    color:"white",
+    marginBottom:10,
+    fontWeight:"bold",
+    fontSize:20
+},
+card_tür:{
+    color:"white",
+    fontWeight:"bold",
+    marginBottom:10
+},
+card_imdb:{
+    color:"white"
+},
+ekle:{
+    width:60,
+    color:"#f4a315",
+    fontWeight:"bold",
+    fontSize:32
+},
+izledim:{
+    width:60,
+    color:"#f4a315",
+    fontWeight:"bold",
+    fontSize:32,
+   },
+paylaş:{
+    color:"#f4a315",
+    width:60,
+    fontWeight:"bold",
+    fontSize:32
+},
+info_container:{
+    flexDirection:"column",
+    flex:1
+},
+button:{
+    flexDirection:"row",
+    marginLeft:10,
+    marginTop:30,
+},
+detay:{
+    color:"white",
+    marginLeft:20,
+    borderWidth:1,
+    borderColor:"white",
+    padding:2,
+    fontSize:13,
+    textAlign:"center",
+    marginTop:3
+}
+})

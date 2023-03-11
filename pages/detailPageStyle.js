@@ -1,0 +1,72 @@
+import {StyleSheet} from "react-native"
+export default StyleSheet.create({
+    body:{
+        flex:1,
+        backgroundColor:"black",
+    },
+    container:{
+        margin:10,
+        flexDirection:"row",
+    },
+    image:{
+        width:130,
+        height:180,
+        
+    },
+    info_container:{
+        flexDirection:"column",
+        marginLeft:10,
+        flex:1
+       
+    },
+    isim:{
+        color:"white",
+        marginBottom:10,
+        fontWeight:"bold",
+        fontSize:25
+    },
+    tür:{
+        color:"white",
+        fontWeight:"bold",
+        marginBottom:15
+    },
+    imdb:{
+        color:"white"
+    },
+    konu:{
+        color:"white",
+        margin:10,
+        fontSize:15
+    },
+    button:{
+        flexDirection:"row",
+        marginTop:40
+
+    },
+    ekle:{
+        width:65,
+        color:"#f4a315",
+        fontWeight:"bold",
+        fontSize:32
+    },
+    izledim:{
+        width:65,
+        color:"#f4a315",
+        fontWeight:"bold",
+        fontSize:32,
+    },
+    paylaş:{
+        color:"#f4a315",
+        width:65,
+        fontWeight:"bold",
+        fontSize:32
+    },
+    webView:{
+        margin:10,
+        flex:1
+    },
+    mostContainer:{
+        flexDirection:"column",
+        flex:1.3
+    }
+})
