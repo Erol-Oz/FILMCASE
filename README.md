@@ -1,5 +1,5 @@
 # FILMCASE
-A movie application where you can access the details and trailers of the movies you want and add what's watched and what to watch.
+#### A movie application where you can access the details and trailers of the movies you want and add what's watched and what to watch.
 <img src="https://user-images.githubusercontent.com/106705999/224513286-2dae8ac5-c313-482e-87f8-0da7a2c6f3b0.png" width="300" height="600">
 <img src="https://user-images.githubusercontent.com/106705999/224513618-10c4b809-5024-4cf7-a9e9-1c7373c0c895.png" width="300" height="600">
 <img src="https://user-images.githubusercontent.com/106705999/224513658-acce099c-edc5-400f-b0ee-44d549bcc556.png" width="300" height="600">
